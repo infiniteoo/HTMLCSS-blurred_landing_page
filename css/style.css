@@ -18,3 +18,8 @@ body {
     -webkit-filter: blur(10px);
     transition: all 1000ms;
 }
+
+.showcase:hover::after {
+    filter: blur(0px);
+    -webkit-filter: blur(0px);
+}
