@@ -1,1 +1,1 @@
-# HTML & CSS - Blurred Landin Page
+# HTML & CSS - Blurred Landing Page
