@@ -81,4 +81,18 @@ body {
     margin: auto;
 }
 
+.bg-light {
+    background: #f4f4f4;   
+    color: #333;
+}
 
+.bg-dark {
+    background: #333;
+    color: #f4f4f4;
+}
+
+.grid-2 {
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(2,1fr);
+}
